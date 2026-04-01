@@ -20,6 +20,10 @@
 
 2. Установить зависимости можно внутри скрипта, можно поднв виртуальное окружение с помощью requirements.txt
 
+1. Запустите Jupyter Notebook с экспериментами:
+   ```bash
+   jupyter notebook initial_experiments.ipynb
+
 
 ## Команда
 
