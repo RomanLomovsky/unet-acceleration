@@ -15,7 +15,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/unet-acceleration.git
+   git clone https://github.com/RomanLomovsky/unet-acceleration.git
    cd unet-acceleration
 
 2. Установить зависимости можно внутри скрипта, можно поднв виртуальное окружение с помощью requirements.txt
